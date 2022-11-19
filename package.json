@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/feac80/cypress/issues"
   },
-  "homepage": "https://github.com/feac80/cypress#readme"
+  "homepage": "https://github.com/feac80/cypress#readme",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
 }
